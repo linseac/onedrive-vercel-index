@@ -56,6 +56,10 @@ module.exports = {
       name: 'Telegram',
       link: 'https://t.me/realSpencerWoo',
     },
+    {
+      name: 'QQ',
+      link: 'http://wpa.qq.com/msgrd?v=3&uin=1833924278&site=qq&menu=yes',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
