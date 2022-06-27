@@ -53,8 +53,8 @@ module.exports = {
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: '网易云音乐',
+      link: 'https://y.music.163.com/m/user?id=380553881',
     },
     {
       name: 'QQ',
