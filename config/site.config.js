@@ -53,10 +53,6 @@ module.exports = {
       link: 'https://github.com/linseac',
     },
     {
-      name: '网易云音乐',
-      link: 'https://y.music.163.com/m/user?id=380553881',
-    },
-    {
       name: 'QQ',
       link: 'http://wpa.qq.com/msgrd?v=3&uin=1833924278&site=qq&menu=yes',
     },
